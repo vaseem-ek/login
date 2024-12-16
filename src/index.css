@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.market{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThxFeq0ZlJFcRCponlz9TGuSk1p_hbNkDsJw&s');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
